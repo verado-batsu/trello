@@ -1,4 +1,4 @@
-export const cardData = [
+const cardData = [
 	{
 		id: 1,
 		order: 3,
@@ -20,3 +20,5 @@ export const cardData = [
 		text: 'Card 4'
 	},
 ]
+
+export default cardData;
